@@ -79,6 +79,13 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. Put your answers underneath the questions:
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
-1. Describe component state.
-1. Describe props.
-1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+  React.JS is a user interface component library built by Facebook to help solve some of the major problems the team was facing when dealing with complex state.
+
+2. Describe component state.
+  State is a plain JavaScript object used by React to represent an information about the component's current situation. It's managed in the component.
+
+3. Describe props.
+  Props (properties) are arguments passed into React components via HTML attributes. 
+
+4. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+  Side effects are basically anything that affects something outside of the scope of the current function that's being executed.
